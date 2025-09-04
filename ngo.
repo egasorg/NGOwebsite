@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>NGO Website</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      line-height: 1.6;
+    }
+    header {
+      background: #2c3e50;
+      color: #fff;
+      padding: 1rem;
+      text-align: center;
+    }
+    nav {
+      margin-top: 10px;
+    }
+    nav a {
+      color: #fff;
+      margin: 0 10px;
+      text-decoration: none;
+    }
+    section {
+      padding: 2rem;
+    }
+    footer {
+      background: #2c3e50;
+      color: #fff;
+      text-align: center;
+      padding: 1rem;
+      margin-top: 20px;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Welcome to Our NGO</h1>
+    <p>Working together for a better future</p>
+    <nav>
+      <a href="#">Home</a>
+      <a href="#">About Us</a>
+      <a href="#">Projects</a>
+      <a href="#">Contact</a>
+    </nav>
+  </header>
+
+  <section>
+    <h2>About Us</h2>
+    <p>
+      We are a non-profit organization committed to making a positive impact 
+      in our community. Our focus is on education, empowerment, and sustainable development.
+    </p>
+  </section>
+
+  <section>
+    <h2>Our Projects</h2>
+    <ul>
+      <li>Community Education Programs</li>
+      <li>Youth Empowerment Workshops</li>
+      <li>Environmental Sustainability Initiatives</li>
+    </ul>
+  </section>
+
+  <footer>
+    <p>&copy; 2025 Our NGO. All rights reserved.</p>
+  </footer>
+</body>
+</html>
